@@ -7,6 +7,7 @@ GOST 2.304-68 is a withdrawn USSR standard for the lettering used in engineering
 In the subsequent GOST 2.304-81  (from 1981), the characters were slightly adapted for computer technologies.
 At the same time, they became thinner, simpler, and more angular.
 In contrast, the 1968 typeface inherits the letterforms of hand-lettering—features largely derived from the even older GOST 3454-59 standard (from 1959).
+It was the era of paper, pencils, pens, and ink.
 
 Differences from the original GOST and known issues:
  - Kerning is based on visual harmony rather than GOST standards. And it isn't perfect everywhere;
