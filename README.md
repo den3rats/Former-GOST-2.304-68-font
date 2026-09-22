@@ -1,4 +1,5 @@
-# Former-GOST-2.304-68-fontA historical font based on the obsolete Soviet GOST 2.304-68 standard. 
+# Former-GOST-2.304-68-font
+A historical font based on the obsolete Soviet GOST 2.304-68 standard. 
 It is ideal for historical reconstructions, restoring old engineering drawings, and retro design projects.
 Developed and generated using FontForge v.20251009.
 
@@ -10,7 +11,6 @@ In the subsequent GOST 2.304-81 (introduced in 1981), character shapes were slig
 As a result, the letters became thinner, simpler, and more angular.
 In contrast, this 1968 typeface retains the charm of manual lettering—inheriting features from the even older GOST 3454-59 standard. 
 It perfectly captures the era of paper, pencils, ruling pens, and ink.
-
 
 # Known Issues & Divergences from GOST:
  - Custom Kerning: Kerning is adjusted for visual harmony rather than strictly following the GOST guidelines. It may still need improvement in some places.
