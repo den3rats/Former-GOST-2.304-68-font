@@ -1,4 +1,4 @@
-# Former-GOST-2.304-68-font
+# Former GOST 2.304-68 font
 A historical font based on the obsolete Soviet GOST 2.304-68 standard. 
 It is ideal for historical reconstructions, restoring old engineering drawings, and retro design projects.
 Developed and generated using FontForge v.20251009.
