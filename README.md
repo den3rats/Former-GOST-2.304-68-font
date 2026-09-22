@@ -1,6 +1,6 @@
 # Former-GOST-2.304-68-font
 Historical font according to former GOST 2.304-68. 
-Just for reconstruction purpose.
+It may be suitable for purposes such as reconstruction, restoring the appearance of old drawings, etc.
 Developed and generated in FontForge v.20251009
 
 GOST 2.304-68 is a withdrawn USSR standard for the lettering used in engineering documentation (paper drawings, associated specifications, etc.). 
