@@ -5,8 +5,8 @@ Developed and generated using FontForge v.20251009.
 
 # About the Standard
 GOST 2.304-68 is a withdrawn Soviet standard for engineering fonts. 
-It was used exclusively for text on drawings and specifications. 
-Note that this standard did not apply to labels on the instruments or equipment, which followed different technical lettering standards.
+It was used exclusively for text on drawings, specifications and other engineering documentation. 
+Note that this standard did not apply to labels on the instruments, devices or equipment, which followed different technical lettering standards.
 In the subsequent GOST 2.304-81 (introduced in 1981), character shapes were slightly adapted for early computer technology. 
 As a result, the letters became thinner, simpler, and more angular.
 In contrast, this 1968 typeface retains the charm of manual lettering—inheriting features from the even older GOST 3454-59 standard. 
