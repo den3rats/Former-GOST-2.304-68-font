@@ -23,3 +23,5 @@ The inertia within the community of specialists was so great that even in 1987, 
 - Reconstructed Shapes: All characters were built from scratch, though some original source materials were low-resolution or difficult to read.
 - Italic Style Workflow: I realized too late that the "Regular" style should have been converted to "Italic" before applying the stroke weight.
   Since it was too far along, I finished the font as is.
+
+<img width="1001" height="729" alt="almost-all-chars" src="https://github.com/user-attachments/assets/3ed407b4-dd93-4172-94e9-9dbc0eb8a65a" />
