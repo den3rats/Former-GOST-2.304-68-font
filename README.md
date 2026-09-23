@@ -15,7 +15,7 @@ As a result, the font lines became twice thinner, letters simpler, and more angu
 In contrast, this 1968 typeface retains the charm of manual lettering—inheriting features from the even older GOST 3454-59 standard.
 It perfectly captures the era of paper, pencils, ruling pens, and ink.
 
-The inertia within the community of specialists was sogreat that even in 1987, when I was taking a drafting course at the university, the teacher taught us to write using the font from the outdated GOST 2.304-68 and referred to the 1981 font as “ugly.”
+The inertia within the community of specialists was so great that even in 1987, when I was taking a drafting course at the university, the teacher taught us to write using the font from the outdated GOST 2.304-68 and referred to the 1981 font as “ugly.”
 
 
 # Known Issues & Divergences from GOST:
