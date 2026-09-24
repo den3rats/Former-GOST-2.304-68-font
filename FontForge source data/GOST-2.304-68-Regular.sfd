@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -14400
-ModificationTime: 1790277579
+ModificationTime: 1790279593
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2126,7 +2126,7 @@ ShortTable: maxp 16
   1
   1
 EndShort
-LangName: 1033 "" "" "Regular" "GOST-2.304-68-Regular-24.09.2026-22:19" "" "Version 1.000" "" "" "Denis Mikhaylik" "" "Old USSR font according to former GOST 2.304-68 (prior to GOST 2.304-81)" "" "" "To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work. This font is published from: Russia." "https://creativecommons.org/publicdomain/zero/1.0/" "" "" "" "GOST 2.304-68 Regular"
+LangName: 1033 "" "" "Regular" "GOST-2.304-68-Regular-24.09.2026-22:52" "" "Version 1.000" "" "" "Denis Mikhaylik" "" "Old USSR font according to former GOST 2.304-68 (prior to GOST 2.304-81)" "" "" "To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work. This font is published from: Russia." "https://creativecommons.org/publicdomain/zero/1.0/" "" "" "" "GOST 2.304-68 Regular"
 GaspTable: 3 8 2 16 1 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -2134,7 +2134,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1032 12 13
+WinInfo: 0 12 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3242,45 +3242,44 @@ EndChar
 
 StartChar: four
 Encoding: 52 52 24
-Width: 1200
+Width: 1032
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<879.5 920.5> 400 200<454 800 1000 1069.09> 980 20G<879.5 920.5>
-VStem: 800 200<30.9092 400 600 969.091>
+HStem: 0 21G<711.5 752.5> 400 200<286 632 832 901.091> 980 20G<711.5 752.5> 1380 20G<519 555>
+VStem: 632 200<30.9092 400 600 969.091>
 LayerCount: 2
 Fore
 SplineSet
-230 429 m 0,0,1
- 200 459 200 459 200 500 c 0,2,3
- 200 521 200 521 209 541 c 2,4,-1
- 611 1441 l 2,5,6
- 624 1469 624 1469 647 1484 c 0,7,8
- 672 1500 672 1500 702 1500 c 0,9,10
- 744 1500 744 1500 773 1471 c 128,-1,11
- 802 1442 802 1442 802 1400 c 0,12,13
- 802 1379 802 1379 793 1359 c 2,14,-1
- 454 600 l 1,15,-1
- 800 600 l 1,16,-1
- 800 900 l 2,17,18
- 800 941 800 941 829 970 c 0,19,20
- 859 1000 859 1000 900 1000 c 128,-1,21
- 941 1000 941 1000 970 971 c 0,22,23
- 1000 941 1000 941 1000 900 c 2,24,-1
- 1000 600 l 17,25,26
- 1041 600 1041 600 1070 571 c 0,27,28
- 1100 541 1100 541 1100 500 c 128,-1,29
- 1100 459 1100 459 1071 430 c 0,30,31
- 1041 400 1041 400 1000 400 c 1,32,-1
- 1000 100 l 2,33,34
- 1000 59 1000 59 971 30 c 0,35,36
- 941 0 941 0 900 0 c 128,-1,37
- 859 0 859 0 830 29 c 0,38,39
- 800 59 800 59 800 100 c 2,40,-1
- 800 400 l 1,41,-1
- 300 400 l 2,42,43
- 259 400 259 400 230 429 c 0,0,1
+61.5 429.5 m 132,-1,1
+ 32 459 32 459 32 500 c 4,2,3
+ 32 523 32 523 41 541 c 6,4,-1
+ 443 1341 l 6,5,6
+ 458 1371 458 1371 481 1386 c 4,7,8
+ 504 1400 504 1400 534 1400 c 4,9,10
+ 576 1400 576 1400 605 1371 c 132,-1,11
+ 634 1342 634 1342 634 1300 c 4,12,13
+ 634 1277 634 1277 625 1259 c 6,14,-1
+ 286 600 l 5,15,-1
+ 632 600 l 5,16,-1
+ 632 900 l 6,17,18
+ 632 941 632 941 661.5 970.5 c 132,-1,19
+ 691 1000 691 1000 732 1000 c 4,20,21
+ 773 1000 773 1000 802.5 970.5 c 132,-1,22
+ 832 941 832 941 832 900 c 6,23,-1
+ 832 600 l 21,24,25
+ 873 600 873 600 902.5 570.5 c 132,-1,26
+ 932 541 932 541 932 500 c 4,27,28
+ 932 459 932 459 902.5 429.5 c 132,-1,29
+ 873 400 873 400 832 400 c 5,30,-1
+ 832 100 l 6,31,32
+ 832 59 832 59 802.5 29.5 c 132,-1,33
+ 773 0 773 0 732 0 c 4,34,35
+ 691 0 691 0 661.5 29.5 c 132,-1,36
+ 632 59 632 59 632 100 c 6,37,-1
+ 632 400 l 5,38,-1
+ 132 400 l 6,39,0
+ 91 400 91 400 61.5 429.5 c 132,-1,1
 EndSplineSet
-Validated: 1
 Kerns2: 240 100 "gost_kern_sub" 247 -100 "gost_kern_sub" 246 -100 "gost_kern_sub" 245 -100 "gost_kern_sub" 244 -100 "gost_kern_sub" 243 -100 "gost_kern_sub" 242 -100 "gost_kern_sub" 241 -100 "gost_kern_sub" 239 -100 "gost_kern_sub" 238 -100 "gost_kern_sub" 237 -100 "gost_kern_sub" 236 -100 "gost_kern_sub" 235 -100 "gost_kern_sub" 234 -100 "gost_kern_sub" 233 -100 "gost_kern_sub" 232 -100 "gost_kern_sub" 231 -100 "gost_kern_sub" 230 -100 "gost_kern_sub" 229 -100 "gost_kern_sub" 228 -100 "gost_kern_sub" 227 -100 "gost_kern_sub" 226 -100 "gost_kern_sub" 225 -100 "gost_kern_sub" 224 -100 "gost_kern_sub" 223 -100 "gost_kern_sub" 222 -100 "gost_kern_sub" 221 -100 "gost_kern_sub" 220 -100 "gost_kern_sub" 219 -100 "gost_kern_sub" 218 -100 "gost_kern_sub" 217 -100 "gost_kern_sub" 216 -100 "gost_kern_sub" 215 -100 "gost_kern_sub" 214 -100 "gost_kern_sub" 181 -100 "gost_kern_sub" 180 -100 "gost_kern_sub" 179 -100 "gost_kern_sub" 178 -100 "gost_kern_sub" 177 -100 "gost_kern_sub" 176 -100 "gost_kern_sub" 175 -100 "gost_kern_sub" 174 -100 "gost_kern_sub" 173 -100 "gost_kern_sub" 172 -100 "gost_kern_sub" 171 -100 "gost_kern_sub" 170 -100 "gost_kern_sub" 169 -100 "gost_kern_sub" 168 -100 "gost_kern_sub" 167 -100 "gost_kern_sub" 166 -100 "gost_kern_sub" 165 -100 "gost_kern_sub" 164 -100 "gost_kern_sub" 163 -100 "gost_kern_sub" 162 -100 "gost_kern_sub" 161 -100 "gost_kern_sub" 160 -100 "gost_kern_sub" 159 -100 "gost_kern_sub" 158 -100 "gost_kern_sub" 157 -100 "gost_kern_sub" 93 0 "gost_kern_sub" 92 0 "gost_kern_sub" 91 0 "gost_kern_sub" 90 0 "gost_kern_sub" 89 0 "gost_kern_sub" 88 0 "gost_kern_sub" 87 0 "gost_kern_sub" 86 0 "gost_kern_sub" 85 0 "gost_kern_sub" 84 0 "gost_kern_sub" 83 0 "gost_kern_sub" 82 0 "gost_kern_sub" 81 0 "gost_kern_sub" 80 0 "gost_kern_sub" 79 0 "gost_kern_sub" 78 0 "gost_kern_sub" 77 0 "gost_kern_sub" 76 0 "gost_kern_sub" 75 0 "gost_kern_sub" 74 0 "gost_kern_sub" 73 0 "gost_kern_sub" 72 0 "gost_kern_sub" 71 0 "gost_kern_sub" 70 0 "gost_kern_sub" 69 0 "gost_kern_sub" 68 0 "gost_kern_sub" 193 -100 "gost_kern_sub" 186 -100 "gost_kern_sub" 182 -100 "gost_kern_sub" 136 -100 "gost_kern_sub" 143 -100 "gost_kern_sub" 133 -100 "gost_kern_sub" 37 -100 "gost_kern_sub" 188 -100 "gost_kern_sub" 203 -100 "gost_kern_sub" 150 -100 "gost_kern_sub" 138 -100 "gost_kern_sub" 154 -100 "gost_kern_sub" 62 -100 "gost_kern_sub" 60 -100 "gost_kern_sub" 27 -100 "gost_kern_sub" 200 -100 "gost_kern_sub" 151 -100 "gost_kern_sub" 152 -100 "gost_kern_sub" 56 -100 "gost_kern_sub" 59 -100 "gost_kern_sub" 61 -100 "gost_kern_sub" 58 -100 "gost_kern_sub"
 EndChar
 

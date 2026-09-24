@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -14400
-ModificationTime: 1790277668
+ModificationTime: 1790279852
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -2125,7 +2125,7 @@ ShortTable: maxp 16
   1
   1
 EndShort
-LangName: 1033 "" "" "Italic" "GOST-2.304-68-Italic-24.09.2026-22:20" "" "Version 1.000" "" "" "Denis Mikhaylik" "" "Old USSR font according to former GOST 2.304-68 (prior to GOST 2.304-81)" "" "" "To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work. This font is published from: Russia." "https://creativecommons.org/publicdomain/zero/1.0/" "" "" "" "GOST 2.304-68 Italic"
+LangName: 1033 "" "" "Italic" "GOST-2.304-68-Italic-24.09.2026-22:56" "" "Version 1.000" "" "" "Denis Mikhaylik" "" "Old USSR font according to former GOST 2.304-68 (prior to GOST 2.304-81)" "" "" "To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work. This font is published from: Russia." "https://creativecommons.org/publicdomain/zero/1.0/" "" "" "" "GOST 2.304-68 Italic"
 GaspTable: 3 8 2 16 1 65535 3 0
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -2133,7 +2133,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 60 15 13
+WinInfo: 0 12 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3144,43 +3144,47 @@ EndChar
 
 StartChar: four
 Encoding: 52 52 23
-Width: 1218
+Width: 1300
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<885.5 926.5> 400 200<621 913 1167 1209.55> 980 20G<1153.5 1194.5>
+HStem: 0 21G<880 920.5> 400 200<614 907 1160 1201.99> 980 20G<1147.5 1188> 1380 20G<1062 1098>
 LayerCount: 2
 Fore
 SplineSet
-413 400 m 2,0,1
- 372 400 372 400 354 424 c 0,2,3
- 336 450 336 450 336 468 c 0,4,5
- 336 507 336 507 360 541 c 2,6,-1
- 1003 1441 l 1,7,8
- 1047 1500 1047 1500 1099.5 1500 c 128,-1,9
- 1152 1500 1152 1500 1169.5 1476 c 128,-1,10
- 1187 1452 1187 1452 1187 1433 c 0,11,12
- 1187 1393 1187 1393 1163 1359 c 2,13,-1
- 621 600 l 1,14,-1
- 967 600 l 1,15,-1
- 1047 900 l 2,16,17
- 1058 941 1058 941 1095.5 970.5 c 128,-1,18
- 1133 1000 1133 1000 1174 1000 c 128,-1,19
- 1215 1000 1215 1000 1233 975.5 c 128,-1,20
- 1251 951 1251 951 1251 932.5 c 128,-1,21
- 1251 914 1251 914 1247 900 c 2,22,-1
- 1167 600 l 17,23,24
- 1208 600 1208 600 1226 576 c 0,25,26
- 1244 550 1244 550 1244 532 c 0,27,28
- 1244 470 1244 470 1199 435 c 128,-1,29
- 1154 400 1154 400 1113 400 c 1,30,-1
- 1033 100 l 2,31,32
- 1022 59 1022 59 984.5 29.5 c 128,-1,33
- 947 0 947 0 906 0 c 128,-1,34
- 865 0 865 0 847 24.5 c 128,-1,35
- 829 49 829 49 829 67.5 c 128,-1,36
- 829 86 829 86 833 100 c 2,37,-1
- 913 400 l 1,38,-1
- 413 400 l 2,0,1
+344 430 m 4,0,1
+ 330 450 330 450 330 474 c 0,2,3
+ 330 487 330 487 334 500 c 4,4,5
+ 340 523 340 523 354 541 c 6,6,-1
+ 970 1341 l 6,7,8
+ 993 1371 993 1371 1020 1386 c 4,9,10
+ 1047 1400 1047 1400 1077 1400 c 4,11,12
+ 1119 1400 1119 1400 1140 1371 c 4,13,14
+ 1154 1352 1154 1352 1154 1327 c 0,15,16
+ 1154 1314 1154 1314 1150 1300 c 4,17,18
+ 1144 1277 1144 1277 1130 1259 c 6,19,-1
+ 614 600 l 5,20,-1
+ 960 600 l 5,21,-1
+ 1041 900 l 6,22,23
+ 1052 941 1052 941 1089.5 970.5 c 132,-1,24
+ 1127 1000 1127 1000 1168 1000 c 4,25,26
+ 1208 1000 1208 1000 1230 970 c 4,27,28
+ 1244 950 1244 950 1245 926 c 0,29,30
+ 1245 913 1245 913 1241 900 c 6,31,-1
+ 1160 600 l 21,32,33
+ 1201 600 1201 600 1223 570 c 4,34,35
+ 1238 550 1238 550 1238 526 c 0,36,37
+ 1238 514 1238 514 1234 500 c 4,38,39
+ 1223 459 1223 459 1185.5 429.5 c 132,-1,40
+ 1148 400 1148 400 1107 400 c 5,41,-1
+ 1027 100 l 6,42,43
+ 1016 59 1016 59 978.5 29.5 c 132,-1,44
+ 941 0 941 0 900 0 c 4,45,46
+ 860 0 860 0 838 30 c 4,47,48
+ 824 50 824 50 823 74 c 0,49,50
+ 823 87 823 87 827 100 c 6,51,-1
+ 907 400 l 5,52,-1
+ 407 400 l 6,53,54
+ 366 400 366 400 344 430 c 4,0,1
 EndSplineSet
 Validated: 1
 Kerns2: 239 100 "gost_kern_sub" 246 -100 "gost_kern_sub" 245 -100 "gost_kern_sub" 244 -100 "gost_kern_sub" 243 -100 "gost_kern_sub" 242 -100 "gost_kern_sub" 241 -100 "gost_kern_sub" 240 -100 "gost_kern_sub" 238 -100 "gost_kern_sub" 237 -100 "gost_kern_sub" 236 -100 "gost_kern_sub" 235 -100 "gost_kern_sub" 234 -100 "gost_kern_sub" 233 -100 "gost_kern_sub" 232 -100 "gost_kern_sub" 231 -100 "gost_kern_sub" 230 -100 "gost_kern_sub" 229 -100 "gost_kern_sub" 228 -100 "gost_kern_sub" 227 -100 "gost_kern_sub" 226 -100 "gost_kern_sub" 225 -100 "gost_kern_sub" 224 -100 "gost_kern_sub" 223 -100 "gost_kern_sub" 222 -100 "gost_kern_sub" 221 -100 "gost_kern_sub" 220 -100 "gost_kern_sub" 219 -100 "gost_kern_sub" 218 -100 "gost_kern_sub" 217 -100 "gost_kern_sub" 216 -100 "gost_kern_sub" 215 -100 "gost_kern_sub" 214 -100 "gost_kern_sub" 213 -100 "gost_kern_sub" 180 -100 "gost_kern_sub" 179 -100 "gost_kern_sub" 178 -100 "gost_kern_sub" 177 -100 "gost_kern_sub" 176 -100 "gost_kern_sub" 175 -100 "gost_kern_sub" 174 -100 "gost_kern_sub" 173 -100 "gost_kern_sub" 172 -100 "gost_kern_sub" 171 -100 "gost_kern_sub" 170 -100 "gost_kern_sub" 169 -100 "gost_kern_sub" 168 -100 "gost_kern_sub" 167 -100 "gost_kern_sub" 166 -100 "gost_kern_sub" 165 -100 "gost_kern_sub" 164 -100 "gost_kern_sub" 163 -100 "gost_kern_sub" 162 -100 "gost_kern_sub" 161 -100 "gost_kern_sub" 160 -100 "gost_kern_sub" 159 -100 "gost_kern_sub" 158 -100 "gost_kern_sub" 157 -100 "gost_kern_sub" 156 -100 "gost_kern_sub" 92 0 "gost_kern_sub" 91 0 "gost_kern_sub" 90 0 "gost_kern_sub" 89 0 "gost_kern_sub" 88 0 "gost_kern_sub" 87 0 "gost_kern_sub" 86 0 "gost_kern_sub" 85 0 "gost_kern_sub" 84 0 "gost_kern_sub" 83 0 "gost_kern_sub" 82 0 "gost_kern_sub" 81 0 "gost_kern_sub" 80 0 "gost_kern_sub" 79 0 "gost_kern_sub" 78 0 "gost_kern_sub" 77 0 "gost_kern_sub" 76 0 "gost_kern_sub" 75 0 "gost_kern_sub" 74 0 "gost_kern_sub" 73 0 "gost_kern_sub" 72 0 "gost_kern_sub" 71 0 "gost_kern_sub" 70 0 "gost_kern_sub" 69 0 "gost_kern_sub" 68 0 "gost_kern_sub" 67 0 "gost_kern_sub" 192 -100 "gost_kern_sub" 185 -100 "gost_kern_sub" 181 -100 "gost_kern_sub" 135 -100 "gost_kern_sub" 142 -100 "gost_kern_sub" 132 -100 "gost_kern_sub" 36 -100 "gost_kern_sub" 187 -100 "gost_kern_sub" 202 -100 "gost_kern_sub" 149 -100 "gost_kern_sub" 137 -100 "gost_kern_sub" 153 -100 "gost_kern_sub" 61 -100 "gost_kern_sub" 59 -100 "gost_kern_sub" 26 -100 "gost_kern_sub" 199 -100 "gost_kern_sub" 150 -100 "gost_kern_sub" 151 -100 "gost_kern_sub" 55 -100 "gost_kern_sub" 58 -100 "gost_kern_sub" 60 -100 "gost_kern_sub" 57 -100 "gost_kern_sub"
