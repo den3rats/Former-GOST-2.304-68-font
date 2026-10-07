@@ -1,3 +1,7 @@
+# 2026-10-07:
+ - Fixed the issue with trimming those tall symbols like asterisks *.
+ - I modified the superscript symbol 0x0311 " ̑ " when combined with a digit, it appears above the digit.
+   
 # 2026-09-27:
  - Corrected symbols for natural fractions such as ½ ⅜, etc.
  - Added national Cyrillic symbols specific to the Belarusian and Ukrainian languages: Ўў Іі Ґґ Єє Її
