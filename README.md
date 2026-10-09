@@ -25,4 +25,4 @@ The inertia within the community of specialists was so great that even in 1987, 
   Since it was too far along, I finished the font as is.
 
 # Almost all chars, example:
-![almost all chars](FontForge source data/almost-all-chars.png)
+![Пример шрифта](FontForge%20source%20data/almost-all-chars.png)
